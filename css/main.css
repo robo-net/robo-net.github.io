@@ -22,3 +22,8 @@
   background-size: 100%, 100%;
   border-radius: 50%;
 }
+
+sup {
+    vertical-align: super;
+    font-size: xx-small;
+}
