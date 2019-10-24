@@ -27,3 +27,10 @@ sup {
     vertical-align: super;
     font-size: xx-small;
 }
+
+.yt-vid {
+	max-width: 50%;
+	max-height: 50vh;
+    margin: auto;
+    margin-bottom: 5px;
+}
